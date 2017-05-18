@@ -1,0 +1,4 @@
+__pycache__
+OUTCAR
+*.molden
+outcar.py
